@@ -1,0 +1,36 @@
+.andrade{
+    color:rgb(0, 0, 0);
+}
+.nome{
+    background-color: rgb(255, 238, 0);
+    text-align: center;
+}
+.pedro{
+    color: rgb(0, 136, 255);
+}
+.imgp{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    border: 3px;
+    border-color: black;
+    border-style: groove;
+    padding: 4px;
+    background-color: rgb(173, 173, 221);
+}
+.imgpedro{
+    border: 3px;
+    border-color: black;
+    border-style: groove;
+    margin-bottom: ;
+}
+a{
+    color: rgb(33, 12, 218);
+}
+body{
+    background-image: url("Curriculo.jpg");
+}
+.andrade:hover
+{
+color: red;
+}
